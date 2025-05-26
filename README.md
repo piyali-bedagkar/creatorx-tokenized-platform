@@ -1,4 +1,4 @@
-# 🎨 CreatorX — The Future of Content Creators in Web3
+# CreatorX — The Future of Content Creators in Web3
 
 **CreatorX** is a decentralized platform empowering content creators to tokenize fan engagement, monetize exclusive experiences, and grow community value using blockchain and NFTs.
 
